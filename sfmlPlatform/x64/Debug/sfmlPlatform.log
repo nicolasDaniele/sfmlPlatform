@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\nicol\Documents\GitHub\SMFL_Platform_Game\sfmlPlatform\sfmlPlatform\main.cpp(10,38): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\nicol\Documents\GitHub\SMFL_Platform_Game\sfmlPlatform\sfmlPlatform\main.cpp(10,26): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  sfmlPlatform.vcxproj -> C:\Users\nicol\Documents\GitHub\SMFL_Platform_Game\sfmlPlatform\x64\Debug\sfmlPlatform.exe
